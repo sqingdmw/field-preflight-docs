@@ -3,12 +3,14 @@
 Read-only custom-field dependency review for Jira Cloud administrators, by
 Quiet Trellis.
 
-## Free External Trial
+## Free Marketplace Submission
 
-The app is offered at no app charge through a publisher-provided installation
-link for external trial use. It is not currently an approved Marketplace listing.
-Your own Jira subscription and permissions still apply. Contact
-sqingdmwc@gmail.com for trial access; no developer token or CLI is required.
+The app has been submitted for a free Marketplace listing and is awaiting
+Atlassian approval and publisher verification. It is not yet an approved public
+listing. The pre-submission installation-link trial was completed; do not assume
+that link distribution remains available after submission. Contact
+sqingdmwc@gmail.com for availability. Your own Jira subscription and permissions
+still apply; no developer token or CLI is required for app use.
 
 A site administrator reviews Atlassian's installation consent and installs on
 their authorized Jira site. Open Jira Apps > Field Preflight using a Jira
@@ -70,6 +72,7 @@ your backup/change-management procedures. This app never authorizes deletion.
 - [Privacy policy](PRIVACY.md)
 - [User terms](TERMS.md)
 - [Support and security reports](SUPPORT.md)
+- [Security policy](SECURITY.md)
 
 This repository contains public documentation only, not application source code,
 tenant reports, credentials or internal support records.
